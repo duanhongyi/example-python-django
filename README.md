@@ -5,7 +5,7 @@ This guide will walk you through deploying a Python / [Django](https://www.djang
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-python-django.git
+$ git clone https://github.com/deisthree/example-python-django.git
 $ cd example-python-django
 $ deis create
 Creating Application... done, created italic-rucksack
@@ -51,8 +51,8 @@ Release v2 on italic-rucksack-web-1653109058-vjlh0
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme
